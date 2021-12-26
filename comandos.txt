@@ -1,0 +1,2 @@
+composer require maatwebsite/excel -->comandos para instalar el generador de excel 
+
